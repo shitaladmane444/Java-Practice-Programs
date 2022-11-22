@@ -1,5 +1,3 @@
-package com.session_06.Other_questions;
-
 import java.util.Scanner;
 
 public class p3 {
