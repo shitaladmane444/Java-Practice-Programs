@@ -24,14 +24,14 @@
 - [x] Pyramid
 
 #### Others Questions
-- [x] (P1)Fibonacci Series in Java Program
-- [x] (P2)Substrate the product and sum of digits of an integer
-- [ ] (p4) Input a number and print all the factors of that number (loop)
-- [ ] (P5) Take integer input till the user enters 0 and print the sum of all numbers (while loop)
-- [ ] (P6) Take integer input till user enter 0 and print the largest number from all
-- [ ] (P7) Addition of two numbers
-- [ ] (P8) Curved surface area of cylinder
-- [ ] (P9) Total surface area of cube
+- [x] Fibonacci Series in Java Program
+- [x] (P1) Substrate the product and sum of digits of an integer
+- [x] (p2) Input a number and print all the factors of that number (loop)
+- [x] (P3) Take integer input till the user enters 0 and print the sum of all numbers (while loop)
+- [x] (P4) Take integer input till user enter 0 and print the largest number from all
+- [x] (P5) Addition of two numbers
+- [x] (P6) Curved surface area of cylinder
+- [x] (P7) Total surface area of cube
   
 # Intermediate Java Programs  
 - [ ] Factorial Program In Java  
