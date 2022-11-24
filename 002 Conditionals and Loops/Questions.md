@@ -24,13 +24,13 @@
 - [x] Pyramid
 
 #### Others Questions
-- [x] [Fibonacci Series in Java Program](https://github.com/karanrao-github/Java-Practice-Programs/blob/main/002%20Conditionals%20and%20Loops/Basic/004%20Other%20Questions/fibonacci.java)
-- [x] [(P1) Substrate the product and sum of digits of an integer](https://github.com/karanrao-github/Java-Practice-Programs/blob/main/002%20Conditionals%20and%20Loops/Basic/004%20Other%20Questions/p1.java)
-- [x] [(p2) Input a number and print all the factors of that number (loop)](https://github.com/karanrao-github/Java-Practice-Programs/blob/main/002%20Conditionals%20and%20Loops/Basic/004%20Other%20Questions/p2.java)
-- [x] [(P6) Take integer input till the user enters 0 and print the sum of all numbers (while loop)](https://github.com/karanrao-github/Java-Practice-Programs/blob/main/002%20Conditionals%20and%20Loops/Basic/004%20Other%20Questions/p6.java)
-- [x] [(P4) Take integer input till user enter 0 and print the largest number from all]()
-- [x] [(P6) Curved surface area of cylinder]()
-- [x] [(P7) Total surface area of cube]()
+- [x] [Curved surface area of cylinder](https://github.com/karanrao-github/Java-Practice-Programs/blob/main/002%20Conditionals%20and%20Loops/Basic/004%20Other%20Questions/program1.java)
+- [x] [Total surface area of cube](https://github.com/karanrao-github/Java-Practice-Programs/blob/main/002%20Conditionals%20and%20Loops/Basic/004%20Other%20Questions/program2.java)
+- [x] [Fibonacci Series in Java Program](https://github.com/karanrao-github/Java-Practice-Programs/blob/main/002%20Conditionals%20and%20Loops/Basic/004%20Other%20Questions/program3.java)
+- [x] [Substract the product and sum of digits of an integer](https://github.com/karanrao-github/Java-Practice-Programs/blob/main/002%20Conditionals%20and%20Loops/Basic/004%20Other%20Questions/program4.java)
+- [x] [Input a number and print all the factors of that number (loop)](https://github.com/karanrao-github/Java-Practice-Programs/blob/main/002%20Conditionals%20and%20Loops/Basic/004%20Other%20Questions/program5.java)
+- [x] [ Take integer input till the user enters 0 and print the sum of all numbers (while loop)](https://github.com/karanrao-github/Java-Practice-Programs/blob/main/002%20Conditionals%20and%20Loops/Basic/004%20Other%20Questions/program6.java)
+- [x] [Take integer input till user enter 0 and print the largest number from all](https://github.com/karanrao-github/Java-Practice-Programs/blob/main/002%20Conditionals%20and%20Loops/Basic/004%20Other%20Questions/program7.java)
   
 # Intermediate Java Programs  
 - [x] [Factorial Program In Java  (p1)](https://github.com/karanrao-github/Java-Practice-Programs/blob/main/002%20Conditionals%20and%20Loops/Intermediate/inter_p1.java)
