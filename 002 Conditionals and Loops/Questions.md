@@ -1,27 +1,27 @@
 # Basic
 ### Find the area of the following shapes 
-- [x] Circle 
-- [x] Triangle 
-- [x] Rectangle 
-- [x] Isosceles triangles 
-- [x] Parallelogram
-- [x] Rhombus
-- [x] Equilateral triangle
+- [x] [Circle](https://github.com/karanrao-github/Java-Practice-Programs/blob/main/002%20Conditionals%20and%20Loops/Basic/001%20Area/area_of_circle.java) 
+- [x] [Triangle](https://github.com/karanrao-github/Java-Practice-Programs/blob/main/002%20Conditionals%20and%20Loops/Basic/001%20Area/area_of_triangle.java) 
+- [x] [Rectangle](https://github.com/karanrao-github/Java-Practice-Programs/blob/main/002%20Conditionals%20and%20Loops/Basic/001%20Area/area_of_rectangle.java) 
+- [x] [Isosceles triangles](https://github.com/karanrao-github/Java-Practice-Programs/blob/main/002%20Conditionals%20and%20Loops/Basic/001%20Area/area_of_isosceles_triangle.java) 
+- [x] [Parallelogram](https://github.com/karanrao-github/Java-Practice-Programs/blob/main/002%20Conditionals%20and%20Loops/Basic/001%20Area/area_of_parallelogram.java)
+- [x] [Rhombus](https://github.com/karanrao-github/Java-Practice-Programs/blob/main/002%20Conditionals%20and%20Loops/Basic/001%20Area/area_of_rhombus.java)
+- [x] [Equilateral triangle](https://github.com/karanrao-github/Java-Practice-Programs/blob/main/002%20Conditionals%20and%20Loops/Basic/001%20Area/area_of_equilateral_triangle.java)
 
 #### Find the Perimeter of the following shapes 
-- [x] Circle
-- [x] Triangle
-- [x] Parallelogram
-- [x] Rectangle 
-- [x] square
-- [x] rhombus
+- [x] [Circle](https://github.com/karanrao-github/Java-Practice-Programs/blob/main/002%20Conditionals%20and%20Loops/Basic/002%20Perimeter/perimeter_of_circle.java)
+- [x] [Triangle](https://github.com/karanrao-github/Java-Practice-Programs/blob/main/002%20Conditionals%20and%20Loops/Basic/002%20Perimeter/perimeter_of_triangle.java)
+- [x] [Parallelogram](https://github.com/karanrao-github/Java-Practice-Programs/blob/main/002%20Conditionals%20and%20Loops/Basic/002%20Perimeter/perimeter_of_triangle.java)
+- [x] [Rectangle](https://github.com/karanrao-github/Java-Practice-Programs/blob/main/002%20Conditionals%20and%20Loops/Basic/002%20Perimeter/perimeter_of_rectangle.java)
+- [x] [square](https://github.com/karanrao-github/Java-Practice-Programs/blob/main/002%20Conditionals%20and%20Loops/Basic/002%20Perimeter/perimeter_of_square.java)
+- [x] [rhombus](https://github.com/karanrao-github/Java-Practice-Programs/blob/main/002%20Conditionals%20and%20Loops/Basic/002%20Perimeter/perimeter_of_rhombus.java)
    
 #### Find the Volume of the following shapes 
-- [x] Cone Java Program
-- [x] Prism
-- [x] Cylinder
-- [x] Sphere
-- [x] Pyramid
+- [x] [Cone Java Program](https://github.com/karanrao-github/Java-Practice-Programs/blob/main/002%20Conditionals%20and%20Loops/Basic/003%20volume/volume_of_cone.java)
+- [x] [Prism](https://github.com/karanrao-github/Java-Practice-Programs/blob/main/002%20Conditionals%20and%20Loops/Basic/003%20volume/volume_of_cone.java)
+- [x] [Cylinder](https://github.com/karanrao-github/Java-Practice-Programs/blob/main/002%20Conditionals%20and%20Loops/Basic/003%20volume/volume_of_cylinder.java)
+- [x] [Sphere](https://github.com/karanrao-github/Java-Practice-Programs/blob/main/002%20Conditionals%20and%20Loops/Basic/003%20volume/volume_of_sphere.java)
+- [x] [Pyramid](https://github.com/karanrao-github/Java-Practice-Programs/blob/main/002%20Conditionals%20and%20Loops/Basic/003%20volume/volume_of_pyramid.java)
 
 #### Others Questions
 - [x] [Curved surface area of cylinder](https://github.com/karanrao-github/Java-Practice-Programs/blob/main/002%20Conditionals%20and%20Loops/Basic/004%20Other%20Questions/program1.java)
