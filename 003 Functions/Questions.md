@@ -1,7 +1,9 @@
 # [Questions](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java/blob/main/assignments/04-functions.md)
 
-1. [Define two methods to print the maximum and the minimum number respectively among three numbers entered by the user.]()
-2. [Define a program to find out whether a given number is even or odd.]()
+1. [Define two methods to print the maximum and the minimum number respectively among three numbers entered by the user.](https://github.com/karanrao-github/Java-Practice-Programs/blob/main/003%20Functions/function_p01.java)
+
+2. [Define a program to find out whether a given number is even or odd.](https://github.com/karanrao-github/Java-Practice-Programs/blob/main/003%20Functions/function_p02.java)
+
 3. [A person is eligible to vote if his/her age is greater than or equal to 18. Define a method to find out if he/she is eligible to vote.]()
 
 4. [Write a program to print the sum of two numbers entered by user by defining your own method.]()
