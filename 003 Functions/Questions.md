@@ -4,17 +4,17 @@
 
 2. [Define a program to find out whether a given number is even or odd.](https://github.com/karanrao-github/Java-Practice-Programs/blob/main/003%20Functions/function_p02.java)
 
-3. [A person is eligible to vote if his/her age is greater than or equal to 18. Define a method to find out if he/she is eligible to vote.]()
+3. [A person is eligible to vote if his/her age is greater than or equal to 18. Define a method to find out if he/she is eligible to vote.](https://github.com/karanrao-github/Java-Practice-Programs/blob/main/003%20Functions/function_p03.java)
 
-4. [Write a program to print the sum of two numbers entered by user by defining your own method.]()
+4. [Write a program to print the sum of two numbers entered by user by defining your own method.](https://github.com/karanrao-github/Java-Practice-Programs/blob/main/003%20Functions/function_p04.java)
 
-5. [Define a method that returns the product of two numbers entered by user.]()
+5. [Define a method that returns the product of two numbers entered by user.](https://github.com/karanrao-github/Java-Practice-Programs/blob/main/003%20Functions/function_p05.java)
 
-6. [Write a program to print the circumference and area of a circle of radius entered by user by defining your own method.]()
+6. [Write a program to print the circumference and area of a circle of radius entered by user by defining your own method.](https://github.com/karanrao-github/Java-Practice-Programs/blob/main/003%20Functions/function_p06.java)
 
-7. [Define a method to find out if a number is prime or not.]()
+7. [Define a method to find out if a number is prime or not.](https://github.com/karanrao-github/Java-Practice-Programs/blob/main/003%20Functions/function_p07.java)
 
-8. [Write a program that will ask the user to enter his/her marks (out of 100). Define a method that will display grades according to the marks entered as below:]() <br/>
+8. [Write a program that will ask the user to enter his/her marks (out of 100). Define a method that will display grades according to the marks entered as below:](https://github.com/karanrao-github/Java-Practice-Programs/blob/main/003%20Functions/function_p08.java) <br/>
 <pre> 
 Marks        Grade 
 91-100         AA 
